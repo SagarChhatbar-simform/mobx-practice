@@ -1,0 +1,16 @@
+.card {
+    width: 26rem;
+    display: contents;
+}
+
+.reactions-count {
+    padding: 15px;
+    font-size: 3.8rem;
+    display: block;
+}
+
+.table {
+    width: 26rem;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
